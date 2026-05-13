@@ -1,6 +1,13 @@
+<div align="center">
+
+![Pokébola](./images/pokebola.png)
+
+</div>
+
 # Pokédex
 
 ![Captura de tela do projeto](./images/screenshot.png)
+> Gotta catch 'em all!
 
 Projeto construído com o objetivo de praticar consumo de APIs e conceitos iniciais de JavaScript assíncrono.
 
