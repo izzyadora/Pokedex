@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" width="100">
 
-![Pokébola](./images/pokebola.png =100x)
+![Pokébola](./images/pokebola.png)
 
 </div>
 
