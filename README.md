@@ -1,9 +1,3 @@
-<div align="center" width="100">
-
-![Pokébola](./images/pokebola.png)
-
-</div>
-
 # Pokédex
 
 ![Captura de tela do projeto](./images/screenshot.png)
